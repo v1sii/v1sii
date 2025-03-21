@@ -1,6 +1,6 @@
 # Visi  
 
-I'm a passionate Fullstack Developer with a strong focus on FiveM development. I specialize in scripting, UI design, and optimizing server performance. My expertise includes Lua, HTML, CSS, and JavaScript, essential for customizing and extending FiveM servers. Additionally, I work with SQL for database management and have experience integrating APIs to enhance server functionality.  
+I'm a Fullstack Developer with a focus on FiveM development. I work with Lua, HTML, CSS, and JavaScript to create and customize scripts, improve UI, and optimize server performance. I also have experience with SQL for database management.  
 
 ---  
 
